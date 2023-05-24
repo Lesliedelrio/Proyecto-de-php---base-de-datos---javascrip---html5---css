@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    font-family: initial;
+    font-size: 20px;
+    background-color: none;
+    height: 20px;
+    padding: 25px;
+    color: blue;
+}
+input{
+    padding: 15px;
+    background-color: none;
+    height: 4px;
+    color: black;
+    border-radius: 10px;
+    height: 5px;
+    line-height: 6px;
+}
